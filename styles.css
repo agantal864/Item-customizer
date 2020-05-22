@@ -1,0 +1,17 @@
+body {
+  font-family: arial;
+}
+
+form {
+  max-width: 460px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.brand {
+  background: coral !important;
+}
+
+.brand-text {
+  color: coral !important;
+}
